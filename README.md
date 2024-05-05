@@ -37,3 +37,4 @@ Uri uri = Uri.parse("content://com.test.vulnapp.fileprovider/root/data/user/0/co
 ## More info
 
 Blog: https://blog.lleavesg.top/
+Android-DirtyStream: https://blog.lleavesg.top/article/Android-DirtyStream 
