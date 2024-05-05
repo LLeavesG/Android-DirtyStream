@@ -32,8 +32,6 @@ public class MainActivity extends AppCompatActivity {
         // use addFlags instead of setFlags avoid overriding existing flags
         intent.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
 
-        intent.setType("text/plain");
-
         // overwrite the file in vuln App
 //        Uri uri = Uri.parse("content://com.test.android.fileprovider/file.txt?name=file.txt&_size=11&path=" + getFilesDir() + "/file.txt");
 
